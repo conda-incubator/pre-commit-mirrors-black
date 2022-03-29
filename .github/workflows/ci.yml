@@ -18,4 +18,4 @@ jobs:
       - name: Set up Conda env
         uses: mamba-org/provision-with-micromamba@268cc19728703111bda67eb6e7328258ff6eb8b6
         with:
-          environment-file: environment.yml
+          environment-name: test-env
