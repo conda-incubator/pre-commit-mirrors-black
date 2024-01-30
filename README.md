@@ -4,7 +4,7 @@ Mirror of black for pre-commit with conda as a language.
 
 For pre-commit: see [here](https://github.com/pre-commit/pre-commit)
 
-For ansible-lint: see [here](https://github.com/psf/black)
+For black: see [here](https://github.com/psf/black)
 
 ## Using black with pre-commit and conda:
 

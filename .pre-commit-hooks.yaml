@@ -1,5 +1,5 @@
 - id: black-conda
   name: black-conda
-  description: Black: The uncompromising Python code formatter
+  description: 'Black: The uncompromising Python code formatter'
   entry: black
   language: conda
