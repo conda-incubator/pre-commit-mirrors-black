@@ -1,6 +1,6 @@
-# black mirror
+# black pre-commit hook
 
-Mirror of black for pre-commit with conda as a language.
+pre-commit hook of black with conda as a `language` / package manager.
 
 For pre-commit: see [here](https://github.com/pre-commit/pre-commit)
 
